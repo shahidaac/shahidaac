@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  Industrial automation • PLC/SCADA • Industrial networking • OT cybersecurity • Security research
+  PLC & SCADA • Industrial Networking • OT Cybersecurity • Security Research
 </p>
 
 <p align="center">
+  <a href="https://shahidaac.com">Website</a> •
   <a href="https://www.linkedin.com/in/shahidaac">LinkedIn</a> •
-  <a href="https://cautivra.com">Cautivra</a> •
   <a href="mailto:aashahidchy@gmail.com">Email</a>
 </p>
 
@@ -22,20 +22,22 @@ Electrical Engineer with industrial experience in **PLC based automation, electr
 
 Hands on experience with **Siemens S7-200/S7-1200 PLCs, HMI, VFDs, instrumentation, production automation and MV/LV electrical systems** in a live manufacturing environment.
 
-Currently developing practical capability in **OT/ICS cybersecurity, industrial networking, OT architecture and security assessment** through controlled laboratories, independent technical projects and security research.
+Currently developing practical capability in **Operational Technology (OT), Industrial Control Systems (ICS), industrial networking and OT cybersecurity** through controlled laboratories, independent technical projects and security research.
 
 My technical focus is the intersection of:
 
 - Industrial Automation
-- Operational Technology (OT) / Industrial Control Systems (ICS)
+- PLC and SCADA Systems
+- OT/ICS Cybersecurity
 - Industrial Networking
-- OT Cybersecurity
 - Electrical Engineering
 - Cyber Physical Systems
 
+🌐 **Portfolio:** [shahidaac.com](https://shahidaac.com)
+
 ---
 
-## Core Technical Focus
+## Technical Focus
 
 ### Industrial Automation
 
@@ -47,7 +49,7 @@ My technical focus is the intersection of:
 - Industrial control systems
 - Industrial automation troubleshooting
 
-### OT/ICS Networking
+### Industrial Networking
 
 - Industrial Ethernet
 - Modbus TCP / RTU
@@ -92,97 +94,71 @@ My technical focus is the intersection of:
 
 ## OT/ICS Security Labs
 
-I maintain an independent portfolio of controlled OT/ICS security laboratories and technical research.
+I maintain a growing portfolio of controlled OT/ICS laboratories and independent technical projects.
 
-### Current Work
+### Current Projects
 
 | Project | Focus |
 |---|---|
-| **Labshock OT/ICS Network Lab** | PLC, SCADA, EWS, networking and OT security analysis |
-| **IEC 62443 Assessment** | Zones, conduits, trust boundaries and risk assessment |
-| **Modbus/TCP Analysis** | Industrial protocol traffic analysis using Wireshark |
+| **OT/ICS Network and Monitoring Lab** | PLC, SCADA, engineering workstation and OT network analysis |
+| **IEC 62443 OT Risk Assessment** | Zones, conduits, trust boundaries and security controls |
+| **Modbus/TCP Security Analysis** | Industrial protocol traffic analysis using Wireshark |
 | **OT Network Segmentation** | Firewall boundaries, ACLs and communication paths |
-| **OT Asset Assessment** | Asset inventory, exposure and vulnerability prioritization |
-| **OT Monitoring** | Network visibility and security analysis |
-| **OT OSINT Research** | Passive reconnaissance and industrial technology research |
+| **OT Asset and Vulnerability Assessment** | Asset inventory, exposure and risk prioritization |
+| **OT Network Monitoring** | Network visibility and security analysis |
+| **OT/ICS OSINT Research** | Passive reconnaissance and industrial technology research |
 
-> All security testing is performed in controlled laboratories, authorized environments or against publicly available information.
+> All security testing is performed in controlled laboratory environments, authorized environments, or against publicly available information.
 
 ---
 
-## Featured Portfolio
+## Featured Technical Areas
 
-### 🔐 OT/ICS Security Labs
+### PLC and SCADA
 
-A growing collection of practical OT/ICS laboratories covering:
+Practical work and laboratory study involving:
 
-- PLC and SCADA security
+- PLC architecture
+- HMI communication
+- SCADA concepts
+- Industrial control networks
+- Engineering workstations
 - Industrial protocols
-- OT network architecture
-- IEC 62443
+
+### OT Network Security
+
+Research and laboratory work involving:
+
+- Network architecture
+- Zones and conduits
+- Firewall rules
+- ACLs
 - Network segmentation
-- OT asset discovery
-- Vulnerability assessment
-- OT monitoring
 - Secure remote access
-- OT security reporting
+- Industrial protocol analysis
 
-**Repository:**  
-[OT/ICS Security Labs](https://github.com/shahidaac/ot-ics-security-labs)
+### OT Security Assessment
 
-### 🏭 Industrial Automation
+Developing workflows for:
 
-Practical engineering background involving:
-
-- Siemens PLC
-- HMI
-- VFD
-- Instrumentation
-- Production automation
-- MV/LV electrical systems
-- Industrial maintenance
-
-### 🌐 Network Security
-
-Practical networking work involving:
-
-- TCP/IP
-- Routing
-- Switching
-- VLAN
-- Network troubleshooting
-- Wireshark
-- Cisco Packet Tracer
+- OT asset inventory
+- Asset exposure analysis
+- Vulnerability assessment
+- Risk prioritization
+- Security architecture review
+- Technical reporting
 
 ---
 
-## Independent Technical Practice
+## Engineering Background
 
-### Cautivra
-
-I am developing **Cautivra** as an independent security practice focused on practical cybersecurity services and the development of remote OT/ICS security capabilities.
-
-Current technical areas include:
-
-- OT/ICS security research
-- Passive reconnaissance
-- OSINT
-- Industrial technology research
-- Security assessment workflows
-- Technical security reporting
-- OT security service development
-
-🌐 **https://cautivra.com**
-
----
-
-## Engineering & Project Experience
-
-My engineering background includes:
+My engineering experience includes:
 
 - Industrial automation maintenance
 - PLC and control system troubleshooting
 - MV/LV electrical systems
+- Substations and switchgear
+- Instrumentation
 - Engineering documentation
 - BOQ preparation
 - Technical specifications
@@ -195,7 +171,7 @@ My engineering background includes:
 
 ---
 
-## Selected Training
+## Technical Training
 
 ### OT/ICS Security
 
@@ -224,13 +200,19 @@ My engineering background includes:
 
 ---
 
-## Education
+## Selected Engineering Projects
 
-**B.Sc. in Electrical and Electronic Engineering**  
-International Islamic University Chittagong
+### IoT GSM Based Water Management System
 
-**MBA in Operations and Supply Chain Management**  
-University of Chittagong
+IoT based monitoring and control project involving connected sensing and automation concepts.
+
+### Power Grid Optimization Using Machine Learning
+
+Research project applying machine learning techniques to electrical power system optimization.
+
+### Automated Car Parking System
+
+Automation project involving control logic and system operation.
 
 ---
 
@@ -238,26 +220,31 @@ University of Chittagong
 
 - OT/ICS cybersecurity
 - Industrial network security
+- Industrial intrusion detection
 - AI assisted OT anomaly detection
 - Cyber physical system security
 - Secure industrial automation
 - Digital Twin security
-- Industrial intrusion detection
 - Critical infrastructure protection
 - Edge computing security
 - Resilient smart manufacturing
 
 ---
 
-## Currently Building
+## Current Development
 
-- OT/ICS security laboratory portfolio
-- Industrial protocol analysis projects
-- IEC 62443 based assessment workflows
-- OT network security research
-- Passive OT intelligence workflows
-- Remote OT security service capabilities
-- Technical security reports and documentation
+Currently building practical evidence in:
+
+- OT/ICS security laboratories
+- Industrial protocol analysis
+- IEC 62443 security assessment
+- OT network segmentation
+- OT asset discovery
+- OT vulnerability assessment
+- OT monitoring and detection
+- Industrial threat intelligence
+- Security reporting
+- Remote OT security workflows
 
 ---
 
@@ -267,11 +254,22 @@ University of Chittagong
 - Junior OT Security Analyst
 - OT/Automation Engineer
 - Industrial Network Security Engineer
-- OT Deployment / Project Engineering
-- Systems Integration
+- OT Deployment Engineer
+- Project Engineer
+- Systems Integration Engineer
 - Industrial Cybersecurity
 - Security Research
-- Remote OT security projects
+- Remote OT Security Projects
+
+---
+
+## Education
+
+**B.Sc. in Electrical and Electronic Engineering**  
+International Islamic University Chittagong
+
+**MBA in Operations and Supply Chain Management**  
+University of Chittagong
 
 ---
 
@@ -286,5 +284,5 @@ University of Chittagong
 </p>
 
 <p align="center">
-  Learning through labs, documenting evidence, and building practical industrial security capability.
+  Building practical evidence through laboratories, engineering projects and technical research.
 </p>
