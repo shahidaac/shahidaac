@@ -1,53 +1,76 @@
 <h1 align="center">Abdullah Al Shahid Chowdhury</h1>
 
 <p align="center">
-  <strong>Electrical Engineer | Industrial Automation | OT/ICS Networking & Security</strong>
+  <strong>Electrical Engineer | Industrial Automation | OT/ICS Security</strong>
 </p>
 
 <p align="center">
-  PLC & SCADA • Industrial Networking • OT Cybersecurity • Security Research
+  <code>PLC</code> • <code>SCADA</code> • <code>Industrial Networking</code> • <code>OT Security</code>
 </p>
 
 <p align="center">
-  <a href="https://shahidaac.com">Website</a> •
-  <a href="https://www.linkedin.com/in/shahidaac">LinkedIn</a> •
-  <a href="mailto:aashahidchy@gmail.com">Email</a>
+  <a href="https://shahidaac.com">
+    <img src="https://img.shields.io/badge/Website-shahidaac.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/shahidaac">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/shahidaac">
+    <img src="https://img.shields.io/badge/GitHub-shahidaac-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## About
+## ⚙️ Engineering Focus
 
-Electrical Engineer with industrial experience in **PLC based automation, electrical systems, engineering documentation, procurement support and networking**.
+Electrical Engineer with professional experience in **industrial automation,
+electrical systems, networking, engineering documentation and project support**.
 
-Hands on experience with **Siemens S7-200/S7-1200 PLCs, HMI, VFDs, instrumentation, production automation and MV/LV electrical systems** in a live manufacturing environment.
+My current technical direction is **Operational Technology (OT), Industrial
+Control Systems (ICS), industrial networking and cybersecurity**.
 
-Currently developing practical capability in **Operational Technology (OT), Industrial Control Systems (ICS), industrial networking and OT cybersecurity** through controlled laboratories, independent technical projects and security research.
+I use this profile to document selected engineering projects, controlled
+laboratories and technical work.
 
-My technical focus is the intersection of:
-
-- Industrial Automation
-- PLC and SCADA Systems
-- OT/ICS Cybersecurity
-- Industrial Networking
-- Electrical Engineering
-- Cyber Physical Systems
-
-🌐 **Portfolio:** [shahidaac.com](https://shahidaac.com)
+> **Engineering → Automation → Networking → OT Security**
 
 ---
 
-## Technical Focus
+## 🏭 Core Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Industrial Automation
 
-- Siemens S7-200 / S7-1200 PLC
-- PLC and HMI systems
-- SCADA fundamentals
-- VFD and instrumentation
-- BMS and HVAC controls
+- Siemens S7-200 / S7-1200
+- PLC
+- HMI
+- SCADA
+- VFD
+- Instrumentation
 - Industrial control systems
-- Industrial automation troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+### OT / ICS Security
+
+- IEC 62443
+- Purdue Architecture
+- Network Segmentation
+- Zones & Conduits
+- OT Asset Discovery
+- Risk Assessment
+- Vulnerability Assessment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Industrial Networking
 
@@ -58,231 +81,128 @@ My technical focus is the intersection of:
 - DNP3
 - RS-485
 - TCP/IP
-- VLAN
-- ACL
-- NAT
-- IPsec VPN
-- Routing and switching
 
-### OT/ICS Cybersecurity
-
-- IEC 62443
-- NIST SP 800-82
-- Purdue Architecture
-- Zones and Conduits
-- Network Segmentation
-- Defense in Depth
-- OT Asset Discovery
-- Vulnerability Assessment
-- Risk Assessment
-- Secure Remote Access
-- OT Security Monitoring
-- Passive OT Reconnaissance
-- OSINT
+</td>
+<td width="50%" valign="top">
 
 ### Security Analysis
 
 - Wireshark
 - Nmap
 - Shodan
-- Network Traffic Analysis
-- Industrial Protocol Analysis
-- OT Security Research
-- Technical Security Reporting
+- Network Analysis
+- Protocol Analysis
+- OSINT
+- Technical Reporting
+
+</td>
+</tr>
+</table>
 
 ---
 
-## OT/ICS Security Labs
+## 🔬 OT/ICS Laboratory Portfolio
 
-I maintain a growing portfolio of controlled OT/ICS laboratories and independent technical projects.
+A growing collection of controlled technical work focused on
+industrial networking, OT architecture and security analysis.
 
-### Current Projects
+### Featured Work
 
-| Project | Focus |
+| Laboratory | Focus |
 |---|---|
-| **OT/ICS Network and Monitoring Lab** | PLC, SCADA, engineering workstation and OT network analysis |
-| **IEC 62443 OT Risk Assessment** | Zones, conduits, trust boundaries and security controls |
-| **Modbus/TCP Security Analysis** | Industrial protocol traffic analysis using Wireshark |
-| **OT Network Segmentation** | Firewall boundaries, ACLs and communication paths |
-| **OT Asset and Vulnerability Assessment** | Asset inventory, exposure and risk prioritization |
-| **OT Network Monitoring** | Network visibility and security analysis |
-| **OT/ICS OSINT Research** | Passive reconnaissance and industrial technology research |
+| 🏭 **OT/ICS Network Lab** | PLC, SCADA and industrial network analysis |
+| 🔐 **IEC 62443 Assessment** | Zones, conduits and security architecture |
+| 📡 **Modbus/TCP Analysis** | Industrial protocol traffic analysis |
+| 🧱 **OT Network Segmentation** | Network boundaries and communication paths |
+| 🔎 **OT Asset Assessment** | Asset visibility and risk analysis |
+| 📊 **OT Monitoring** | Network visibility and security analysis |
 
-> All security testing is performed in controlled laboratory environments, authorized environments, or against publicly available information.
+### 📂 Main Repository
 
----
+**[OT/ICS Security Labs →](https://github.com/shahidaac/ot-ics-security-labs)**
 
-## Featured Technical Areas
-
-### PLC and SCADA
-
-Practical work and laboratory study involving:
-
-- PLC architecture
-- HMI communication
-- SCADA concepts
-- Industrial control networks
-- Engineering workstations
-- Industrial protocols
-
-### OT Network Security
-
-Research and laboratory work involving:
-
-- Network architecture
-- Zones and conduits
-- Firewall rules
-- ACLs
-- Network segmentation
-- Secure remote access
-- Industrial protocol analysis
-
-### OT Security Assessment
-
-Developing workflows for:
-
-- OT asset inventory
-- Asset exposure analysis
-- Vulnerability assessment
-- Risk prioritization
-- Security architecture review
-- Technical reporting
+> Security testing and analysis documented here is limited to controlled,
+> authorized or publicly available environments.
 
 ---
 
-## Engineering Background
+## 🛠️ Engineering Background
 
-My engineering experience includes:
+My professional engineering experience includes:
 
-- Industrial automation maintenance
-- PLC and control system troubleshooting
+- Industrial automation
+- PLC and control systems
 - MV/LV electrical systems
 - Substations and switchgear
 - Instrumentation
+- Network troubleshooting
 - Engineering documentation
-- BOQ preparation
-- Technical specifications
-- RFQ and quotation preparation
+- BOQ and technical specifications
+- RFQ and procurement support
 - Tender documentation
-- e-GP submissions
-- Procurement support
 - Stakeholder coordination
 - Technical reporting
 
 ---
 
-## Technical Training
+## 📚 Selected Training
 
-### OT/ICS Security
+**OT / ICS**
 
-- IEC 62443: Complete Industrial Cybersecurity Guide for OT/ICS
-- Practical Industrial Control System Penetration Testing
-- Mike Holcomb OT/ICS Security Training
-- ICS Security Assessment and Protection
+`IEC 62443` `ICS Security` `OT/ICS Security` `ICS Penetration Testing`
 
-### Industrial Networking
+**Networking**
 
-- Industrial Networking and Cybersecurity Essentials
-- Cisco CCNA
-- Network Security
+`CCNA` `Industrial Networking` `Network Security`
 
-### Cybersecurity
+**Cybersecurity**
 
-- Google Cybersecurity Professional Certificate
+`Google Cybersecurity Professional Certificate`
 
-### Automation
+**Automation**
 
-- Siemens S7-200 / S7-1200 PLC
-- VFD
-- HMI
-- BMS
-- Electrical Design
+`Siemens PLC` `HMI` `VFD` `BMS`
 
 ---
 
-## Selected Engineering Projects
+## 🎓 Education
 
-### IoT GSM Based Water Management System
-
-IoT based monitoring and control project involving connected sensing and automation concepts.
-
-### Power Grid Optimization Using Machine Learning
-
-Research project applying machine learning techniques to electrical power system optimization.
-
-### Automated Car Parking System
-
-Automation project involving control logic and system operation.
-
----
-
-## Research Interests
-
-- OT/ICS cybersecurity
-- Industrial network security
-- Industrial intrusion detection
-- AI assisted OT anomaly detection
-- Cyber physical system security
-- Secure industrial automation
-- Digital Twin security
-- Critical infrastructure protection
-- Edge computing security
-- Resilient smart manufacturing
-
----
-
-## Current Development
-
-Currently building practical evidence in:
-
-- OT/ICS security laboratories
-- Industrial protocol analysis
-- IEC 62443 security assessment
-- OT network segmentation
-- OT asset discovery
-- OT vulnerability assessment
-- OT monitoring and detection
-- Industrial threat intelligence
-- Security reporting
-- Remote OT security workflows
-
----
-
-## Open To
-
-- OT/ICS Security Engineer
-- Junior OT Security Analyst
-- OT/Automation Engineer
-- Industrial Network Security Engineer
-- OT Deployment Engineer
-- Project Engineer
-- Systems Integration Engineer
-- Industrial Cybersecurity
-- Security Research
-- Remote OT Security Projects
-
----
-
-## Education
-
-**B.Sc. in Electrical and Electronic Engineering**  
+**B.Sc. Electrical & Electronic Engineering**  
 International Islamic University Chittagong
 
-**MBA in Operations and Supply Chain Management**  
+**MBA Operations & Supply Chain Management**  
 University of Chittagong
 
 ---
 
-## Professional Membership
+## 🎯 Professional Direction
 
-**Institution of Engineers, Bangladesh (IEB)**
+Interested in opportunities involving:
+
+`OT/ICS Security`  
+`Industrial Automation`  
+`OT Networking`  
+`Systems Integration`  
+`Project Engineering`  
+`OT Deployment`  
+`Industrial Cybersecurity`
 
 ---
 
+## 🌐 Connect
+
 <p align="center">
-  <strong>Engineering • Automation • Networking • OT Security</strong>
+
+<a href="https://shahidaac.com">
+  <img src="https://img.shields.io/badge/Professional%20Portfolio-shahidaac.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/shahidaac">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
 <p align="center">
-  Building practical evidence through laboratories, engineering projects and technical research.
+  <sub>Industrial Engineering • Automation • Networking • OT Security</sub>
 </p>
